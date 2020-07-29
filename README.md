@@ -1,2 +1,4 @@
-# gg-engine
-2D game engine with LWGJL lwgjl, openGL, and openAL
+GGEngine
+========
+
+Engine 2D, lwgjl, openGL, openAL, Java
